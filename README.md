@@ -14,11 +14,8 @@ I enjoyed these 7 days, you can as well. To register for next free 7 days bootca
 or follow DevTown on:
 <li><a href=
 "https://www.linkedin.com/company/devtown-in/">LinkedIn</a>
-<li><a href=
-"https://www.instagram.com/devtown.in/">Instagram</a>
-<li><a
+<a
 href=
 "https://www.youtube.com/c/DevTownIndia">YouTu
 be</a>
-<li><a href=
-"https://github.com/shapeai">GitHub</a>
+
